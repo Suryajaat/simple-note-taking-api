@@ -15,7 +15,7 @@ A simple RESTful API for note-taking, built with Node.js and Express. This appli
 
 Before you begin, ensure you have the following installed:
 
-- [Node.js] (v14 or later)
+- [Node.js] (v18.16.0)
 - [MongoDB] (local installation or a cloud service like MongoDB Atlas add path in .env file)
 
 ## Setup
